@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JitharaSiriwardana
 - 👀 I’m interested in ...exploring new things
 - 🌱 I’m currently learning ...Data science
-- 💞️ I’m looking to collaborate on ...virtusa
+- 💞️ I’m looking to collaborate on ...IFS and IBM
 - 📫 How to reach me ...it22336590@my.sliit.lk/0775920586
 
 <!---
